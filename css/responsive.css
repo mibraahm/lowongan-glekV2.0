@@ -3331,18 +3331,12 @@
     z-index: 12;
 }    
 .main-menu .navbar-header .navbar-toggle {
-    position: absolute;
-    top: 0;
-    right: 0;
-    display: inline-block;
+    display: flex;
     z-index: 7;
-    float: right;
-    padding: 4px 5px;
+    justify-content: center;
+    align-items: center;
     cursor: pointer;
-    margin: 24px 0;
     border-radius: 0px;
-    background: #1d1d1d;
-    margin-right: 25px;
 }
 .main-menu .navbar-header .navbar-toggle.mar-right0{
     margin-right: 0;
