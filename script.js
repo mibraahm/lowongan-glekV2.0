@@ -78,7 +78,7 @@ document.querySelector(".aep1").addEventListener("click", function () {
 
 document.querySelector(".aep2").addEventListener("click", function () {
   Swal.fire({
-    title: "Account Executive & Partnership Regional 1 (Surabaya)",
+    title: "Account Executive & Partnership Regional 2 (Surabaya)",
     html: "<br><b>JOB DUTIES</b><br><br>• Expanding the current network and identify prospective clients<br>• Handing all processes within the sales cycle: from pitching to closing<br>• Presenting products or services to clients<br>• Maintaining close contact with clients and attending regular meetings<br>• Providing after-sales support to clients: invoicing, preparing reports, handling complaints and resolving any issues that arise<br>• Ultimately should be able to bring sight and sound together in order to tell a cohesive story<br><br><b>QUALIFICATION</b><br><br>• Moslem<br>• Live around Surabaya<br>• Shalat in a timely manner<br>•Tartil in reciting the Al-quran <br>• No smoking and no tattoos<br>• Male 20-35 years old<br>• Familiar working with Google Workspace<br>• Proven work experience at the same position<br>• Bachelor’s degree in Business Management or related field<br>• Excellent time management skills<br>• Excellent written and verbal communication skills<br>• Excellent interpersonal skills<br>• Problem-solving skills",
     showCancelButton: true,
     confirmButtonText: "<a target='_blank' href='https://forms.gle/5HHzhZ7rgnGjLKS27' style='color:white; text-decoration:none'>Interested</a>",
